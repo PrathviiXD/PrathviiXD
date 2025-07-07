@@ -1,29 +1,47 @@
-# Hey, I'm Prathvi 👋
-
-I'm currently a CSE student at SISTec Bhopal (Batch of 2029).  
-I don't know everything — but I'm learning something new every day.
+<h1 align="center">Hi, I'm Prathvi 👋</h1>
+<p align="center">CSE'29 @ SISTec Bhopal • Curious Mind • Learning & Growing</p>
 
 ---
 
-## 🔭 Right Now
-- Trying to understand coding, AI, and real-world problems.
-- Working on **AYU.AI**, a health assistant app idea.
-- Exploring how tech can solve small but meaningful problems.
+### 🔍 About Me
+
+- 🎓 First-year CSE student from Bhopal, India  
+- 🛠️ Not an expert — just someone who shows up and learns daily  
+- 🧠 Interested in building useful things with tech  
+- 🤖 Currently working on: **AYU.AI** — a multilingual health assistant
 
 ---
 
-## 🎯 My Focus
-- Learning Python and Web Development from scratch.
-- Asking questions, making mistakes, and figuring things out.
-- Not trying to be perfect — just trying to be better than yesterday.
+### 🚀 What Drives Me
+
+- I don’t pretend to know everything  
+- I ask, I break things, I learn — that’s the process  
+- I believe in consistency, not perfection
 
 ---
 
-## 📫 Contact
+### 📚 Learning Zone
+
+- Learning: `Python`, `Web Dev`
+- Tools I use: `VS Code`, `GitHub`, `Figma`, `Canva`
+- Areas I'm curious about: `AI`, `Web Dev`, `Problem Solving`
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PrathviiXD&show_icons=true&theme=default&hide_border=true" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=PrathviiXD&theme=default&hide_border=true" height="150"/>
+</p>
+
+---
+
+### 📫 Let’s Connect
+
 - 📍 Bhopal, India  
 - 📬 prathvirajsinghsushma@gmail.com  
 
 ---
 
-> "I'm not here to impress. I'm here to improve."  
-
+<p align="center"><i>"I'm not here to impress. I'm here to improve." 👣</i></p>
