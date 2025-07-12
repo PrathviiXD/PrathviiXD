@@ -7,8 +7,7 @@
 
 - 🎓 First-year CSE student from Bhopal, India  
 - 🛠️ Not an expert — just someone who shows up and learns daily  
-- 🧠 Interested in building useful things with tech  
-- 🤖 Currently working on: **AYU.AI** — a multilingual health assistant
+- 🧠 Interested in building useful things with tech
 
 ---
 
