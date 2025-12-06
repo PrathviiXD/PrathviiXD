@@ -22,7 +22,7 @@
 ### 📚 Learning Zone
 
 - Learning: `Python`, `Web Dev`
-- Tools I use: `VS Code`, `GitHub`, `Figma`, `Canva`
+- Tools I use: `VS Code`, `Git/GitHub`, `Figma`, `Canva`
 - Areas I'm curious about: `AI`, `Web Dev`, `Problem Solving`
 
 ---
